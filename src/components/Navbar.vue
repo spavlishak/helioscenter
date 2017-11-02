@@ -3,8 +3,8 @@
   <nav class="navbar navbar-expand-lg navbar-dark bg-transparent" role="navigation">
     <div class="container no-override">
       <a class="navbar-brand" href="index.html">
-          <img src="/images/logo-alt-w.png" class="d-none d-lg-inline mr-2 w-25" />
-          Core
+          <img src="../assets/images/helios.ico" class="d-none d-lg-inline mr-2 w-25"/>
+          Helios-center
         </a>
       <button class="navbar-toggler" data-toggle="collapse" data-target="#navbar-collapse">
           <span class="navbar-toggler-icon"></span>
