@@ -11,10 +11,10 @@ left: 0px; top: -238.5px;" frameborder="0" allowfullscreen="1" title="YouTube vi
 
   <div class="homepage-hero-content">
     <h2 class="customFadeInUp">
-        Live anywhere you want in the world
-      </h2>
+      We are more than just an office
+    </h2>
     <p class="customFadeInUp">
-      Core has both a web app and an android app to make your website easy and always available. It offers you all the designs in collaboration with people.
+      Work in the office during time convenient for you
     </p>
 
     <a href="#" class="btn-cta customFadeInUp">
