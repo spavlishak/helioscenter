@@ -7,6 +7,7 @@ import router from './router'
 import 'bootstrap-sass/assets/stylesheets/_bootstrap.scss'
 import 'theme-corporate/stylesheets/theme.scss'
 
+// homepage
 import Intro from '@/components/Intro'
 import Perks from '@/components/Perks'
 import Video from '@/components/Video'
