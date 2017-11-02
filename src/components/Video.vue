@@ -11,14 +11,10 @@ left: 0px; top: -238.5px;" frameborder="0" allowfullscreen="1" title="YouTube vi
 
   <div class="homepage-hero-content">
     <h2 class="customFadeInUp">
-      We are more than just an office
-    </h2>
-    <p class="customFadeInUp">
-      Work in the office during time convenient for you
-    </p>
-
+        We are more than just an office
+      </h2>
     <a href="#" class="btn-cta customFadeInUp">
-        Sign up now
+        Join us
       </a>
   </div>
 </div>
