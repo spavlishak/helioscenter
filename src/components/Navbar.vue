@@ -13,7 +13,7 @@
       <div class="collapse navbar-collapse justify-content-end" id="navbar-collapse">
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link nav-link--rounded" href="#/labs-and-events">Labs & events</a>
+            <a class="nav-link nav-link--rounded" href="#/events">Events</a>
           </li>
           <li class="nav-item">
             <a class="nav-link nav-link--rounded" href="#/bootcamp">Bootcamp</a>

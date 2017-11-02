@@ -20,10 +20,10 @@ export default new Router({
       }
     },
     {
-      path: '/labs-and-events',
-      name: 'Labs and Events',
+      path: '/events',
+      name: 'Events',
       component: {
-        template: require('@/views/labs-and-events.html')
+        template: require('@/views/events.html')
       }
     },
     {
