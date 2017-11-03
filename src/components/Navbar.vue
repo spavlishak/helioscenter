@@ -1,8 +1,7 @@
 <template>
-<div>
   <nav class="navbar navbar-expand-lg navbar-dark bg-transparent" role="navigation">
     <div class="container no-override">
-      <a class="navbar-brand" href="index.html">
+      <a class="navbar-brand" href="/">
           <img src="../assets/images/helios.ico" style="width: 15%;" class="d-none d-lg-inline mr-2"/>
           Helios-center
         </a>
@@ -25,5 +24,4 @@
       </div>
     </div>
   </nav>
-</div>
 </template>

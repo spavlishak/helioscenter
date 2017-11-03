@@ -1,85 +1,43 @@
 <template>
-<footer id="footer" class="footer">
+<div class="agency-footer">
   <div class="container">
     <div class="row">
-      <div class="col-md-4">
-        <div class="title">
-          About spacial
-        </div>
-        <ul class="menu">
-          <li>
-            <a href="#">Home Pages</a>
-          </li>
-          <li>
-            <a href="#">Theme Features</a>
-          </li>
-          <li>
-            <a href="#">Services</a>
-          </li>
-          <li>
-            <a href="#">StoreFront</a>
-          </li>
-          <li>
-            <a href="#">Portfolio</a>
-          </li>
-        </ul>
+      <div class="col-md-3">
+        <h4>About</h4>
+        <a href="#" class="legal">Portfolio</a>
+        <a href="#" class="legal">Clients</a>
+        <a href="#" class="legal">Careers</a>
       </div>
-      <div class="col-md-4">
-        <div class="title">
-          Connect with us
-        </div>
-        <ul class="menu">
-          <li>
-            <a href="#">
-                <i class="fa fa-instagram"></i>
-                Instagram
-              </a>
-          </li>
-          <li>
-            <a href="#">
-                <i class="fa fa-twitter"></i>
-                Twitter
-              </a>
-          </li>
-          <li>
-            <a href="#">
-                <i class="fa fa-dribbble"></i>
-                Dribbble
-              </a>
-          </li>
-          <li>
-            <a href="https://www.facebook.com/helioscenter/?fref=ts">
-                <i class="fa fa-facebook"></i>
-                Facebook
-              </a>
-          </li>
-        </ul>
-      </div>
-      <div class="col-md-4 newsletter">
-        <div class="title">
-          Get awesome updates
-        </div>
+      <div class="col-md-3">
+        <h4>Address</h4>
         <p>
-          Enter your email address for news and product launches in the Awesome Space.
+        10th Street 12/3
+        4580 San Francisco, Ca.
         </p>
-
-        <form class="newsletter-form" autocomplete="off">
-          <input type="email" id="mc-email" class="form-control" placeholder="Email address" required />
-
-          <button type="submit">
-              <i class="fa fa-chevron-right"></i>
-            </button>
-          <label for="mc-email" class="text-white newsletter-feedback mt-3"></label>
-        </form>
       </div>
-    </div>
-    <div class="bottom">
-      <ul>
-        <li><a href="#">Privacy</a></li>
-        <li><a href="#">Legal</a></li>
-        <li><a href="#">Language</a></li>
-      </ul>
+      <div class="col-md-3">
+        <h4>Contact</h4>
+        <p>
+        +81 555 489 902
+        info@heliostech.fr
+        </p>
+      </div>
+      <div class="col-md-3">
+        <h4>Social</h4>
+        <a href="#" class="social first">
+          <i class="fa fa-facebook"></i>
+        </a>
+        <a href="#" class="social">
+          <i class="fa fa-twitter"></i>
+        </a>
+        <a href="#" class="social">
+          <i class="fa fa-dribbble"></i>
+        </a>
+        <a href="#" class="social">
+          <i class="fa fa-github"></i>
+        </a>
+      </div>
     </div>
   </div>
-</footer>
+</div>
 </template>
