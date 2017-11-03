@@ -1,11 +1,11 @@
 <template>
-<div id="app">
-  <app-navbar></app-navbar>
-  <transition appear name="fade" mode="out-in">
-    <router-view></router-view>
-  </transition>
-  <app-footer></app-footer>
-</div>
+  <div id="app">
+    <app-navbar></app-navbar>
+    <transition appear name="fade" mode="out-in">
+      <router-view></router-view>
+    </transition>
+    <app-footer></app-footer>
+  </div>
 </template>
 
 <style>

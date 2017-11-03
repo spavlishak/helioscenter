@@ -11,8 +11,10 @@
       <div class="col-md-3">
         <h4>Address</h4>
         <p>
-        10th Street 12/3
-        4580 San Francisco, Ca.
+        Khrestovyi Ln, 2a,
+        Floor 7,<br> Ste 704-705,
+        Kiev city, Ukraine,
+        01010
         </p>
       </div>
       <div class="col-md-3">
