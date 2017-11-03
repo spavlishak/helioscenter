@@ -7,6 +7,7 @@ left: 0px; top: -238.5px;" frameborder="0" allowfullscreen="1" title="YouTube vi
 	#document
 		</iframe>
     </div>
+    <div id="ytplayer-shield" class="ytplayer-shield"></div>
   </div>
 
   <div class="homepage-hero-content">

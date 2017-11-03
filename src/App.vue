@@ -1,10 +1,24 @@
 <template>
 <div id="app">
   <app-navbar></app-navbar>
-  <router-view></router-view>
+  <transition appear name="fade" mode="out-in">
+    <router-view></router-view>
+  </transition>
   <app-footer></app-footer>
 </div>
 </template>
+
+<style>
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity 0.7s
+}
+
+.fade-enter,
+.fade-leave {
+  opacity: 0
+}
+</style>
 
 <script>
 import Navbar from './components/Navbar'
