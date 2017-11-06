@@ -23,6 +23,7 @@
 <script>
 import Navbar from './components/Navbar'
 import Footer from './components/Footer'
+/* eslint-disable */
 export default {
   components: {
     AppNavbar: Navbar,

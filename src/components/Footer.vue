@@ -1,5 +1,5 @@
 <template>
-<div class="agency-footer">
+<div class="agency-footer mt-0">
   <div class="container">
     <div class="row">
       <div class="col-md-3">
@@ -21,7 +21,7 @@
         <h4>Contact</h4>
         <p>
         Tel: +380 44 594 53 13
-        info@heliostech.fr
+        info@helioscenter.ua
         </p>
       </div>
       <div class="col-md-3">
@@ -29,7 +29,7 @@
         <a href="https://www.facebook.com/helioscenter" class="social first">
           <i class="fa fa-facebook"></i>
         </a>
-        <a href="https://twitter.com/Helios_Center" class="social">
+        <a href="https://twitter.com/heliosgroup" class="social">
           <i class="fa fa-twitter"></i>
         </a>
         <a href="https://github.com/helios-technologies" class="social">
