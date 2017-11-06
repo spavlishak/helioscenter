@@ -1,11 +1,11 @@
 <template>
-<div id="app">
-  <app-navbar></app-navbar>
-  <transition appear name="fade" mode="out-in">
-    <router-view></router-view>
-  </transition>
-  <app-footer></app-footer>
-</div>
+  <div id="app">
+    <app-navbar></app-navbar>
+    <transition appear name="fade" mode="out-in">
+      <router-view></router-view>
+    </transition>
+    <app-footer></app-footer>
+  </div>
 </template>
 
 <style>
@@ -23,6 +23,7 @@
 <script>
 import Navbar from './components/Navbar'
 import Footer from './components/Footer'
+/* eslint-disable */
 export default {
   components: {
     AppNavbar: Navbar,

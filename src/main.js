@@ -12,6 +12,16 @@ import Intro from '@/components/Intro'
 import Perks from '@/components/Perks'
 import Video from '@/components/Video'
 
+// google-map
+import * as VueGoogleMaps from 'vue2-google-maps'
+
+Vue.use(VueGoogleMaps, {
+  load: {
+    key: 'AIzaSyCPLizaiBApxxBBqDbmRHQ-2UyOQMyEHkA',
+    libraries: 'places'
+  }
+})
+
 Vue.config.productionTip = false
 
 Vue.component('Video', Video)

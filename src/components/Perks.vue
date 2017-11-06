@@ -1,6 +1,6 @@
 <template>
 <div class="container">
-    <h3>We offer</h3>
+    <h1 style="text-align: center; padding-bottom: 50px">What we offer?</h1>
   <div class="row">
     <div class="col-md-6">
       <h3>

@@ -13,10 +13,24 @@ export default new Router({
       }
     },
     {
-      path: '/bootcamp',
-      name: 'Bootcamp',
+      path: '/about-us',
+      name: 'About us',
       component: {
-        template: require('@/views/bootcamp.html')
+        template: require('@/views/about-us.html')
+      }
+    },
+    {
+      path: '/services',
+      name: 'Services',
+      component: {
+        template: require('@/views/services.html')
+      }
+    },
+    {
+      path: '/laboratory',
+      name: 'Laboratory',
+      component: {
+        template: require('@/views/laboratory.html')
       }
     },
     {
