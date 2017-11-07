@@ -1,0 +1,11 @@
+{
+  "title": "Helios Center",
+  "navbar": {
+    "about-us": "About us",
+    "services": "Services",
+    "laboratory": "Laboratory",
+    "events": "Events",
+    "contact-us": "Contact us"
+  },
+  "intro": "We are more than just an office"
+}

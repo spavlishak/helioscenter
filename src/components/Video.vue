@@ -11,7 +11,7 @@ left: 0px; top: -238.5px;"  frameborder="0" allowfullscreen="1" title="YouTube v
 
   <div class="homepage-hero-content">
     <h2 class="customFadeInUp">
-        We are more than just an office
+        {{ $t("intro") }}
       </h2>
     <a href="#" class="btn-cta customFadeInUp">
         Join us
